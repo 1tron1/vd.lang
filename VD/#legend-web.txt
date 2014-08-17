@@ -1,0 +1,6 @@
+
+
+#include <SPI.h>
+#include <Ethernet.h>
+
+Ethernet Server server(80)

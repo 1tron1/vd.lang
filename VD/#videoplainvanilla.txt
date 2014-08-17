@@ -1,0 +1,18 @@
+PImage img;
+import processing.video.*;
+Capture glamcam;
+float num=0;
+
+void setup() {
+	size (640,480);
+	glamcam= new Capture(this,600,600);
+	glamcam.start;
+}
+void draw(){
+num=num+1;
+if (glamcam.available){
+	glamcam.read();
+}
+set(0,0,glamcam) //faster than image(glamcam,0,0)
+save(num +".png");
+}

@@ -1,0 +1,4 @@
+//video setup
+	size (640,480);
+	glamcam= new Capture(this,600,600);
+	glamcam.start;

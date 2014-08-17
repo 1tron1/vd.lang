@@ -1,0 +1,5 @@
+
+PImage img;
+import processing.video.*;
+Capture glamcam;
+float num=0;

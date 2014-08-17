@@ -1,0 +1,10 @@
+
+
+
+ while (client.connected()) {
+    if (client.available()) {
+client.print(HTML);
+
+done
+done
+

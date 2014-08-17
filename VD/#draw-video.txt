@@ -1,0 +1,8 @@
+//videodraw
+
+num=num+1;
+if (glamcam.available){
+	glamcam.read();
+}
+set(0,0,glamcam) //faster than image(glamcam,0,0)
+save(num +".png");

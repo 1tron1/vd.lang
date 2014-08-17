@@ -1,0 +1,5 @@
+
+
+  Ethernet.begin(mac, ip);
+  server.begin();
+

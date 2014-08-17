@@ -1,0 +1,13 @@
+
+
+
+  #4(pos = 0; pos < t; pos += 1) 
+  {                                 
+    myservo.write(pos);              
+    delay(15);                       
+  } 
+  #4(pos = t; pos>=1; pos-=1)     
+  {                                
+    myservo.write(pos);             
+    delay(15);                       
+  } 

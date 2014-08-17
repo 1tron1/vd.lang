@@ -1,0 +1,22 @@
+#scripterfctions
+
+Command(Params)-->> CMD=Command|||||||OBJ=Params
+Do not include () unless asked to;
+
+Scripter allows you to write pure voodoo code in a RTF box on the right side labeled Commander
+
+*************************************************
+size(int,int) //changes the Java Window Size
+
+var(name in OBJ,New Name in OPRTR) // cleans up any dupe vars, its manual
+
+Appendicitis(After,Before,NEWFNCTION) //All done in CMD, appends a new function set
+
+web(whatyouwant,ip)// whatyouwant can be:
+
+iffy(dis is true)// its a pure voodoo thing, its an if Statement
+
+Your Funtion goes here
+
+done()// ends the if statement
+

@@ -1,0 +1,22 @@
+#legend-web
+
+#include <SPI.h>
+#include <Ethernet.h>
+
+Ethernet Server server(80)
+#stp
+  Ethernet.begin(mac, ip);
+  server.begin();
+
+  /#
+
+#lp
+
+ while (client.connected()) {
+    if (client.available()) {
+client.print(HTML);
+
+done
+done
+
+/#
