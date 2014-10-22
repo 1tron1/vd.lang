@@ -1,0 +1,2 @@
+Hello, welcome to Commander for Voodoo by Daniel Mccormack
+This area lets you type pure Voodoo Code, and it appears in the OUTPUT
