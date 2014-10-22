@@ -1,0 +1,15 @@
+French
+si --> if(
+est supérieur à --> >
+est inférieure à --> <
+est égal à --> =
+
+
+Spanish
+
+
+
+Russian
+
+равна =
+если if(
